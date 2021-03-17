@@ -1,2 +1,7 @@
 # manu-show-room
-A Pure HTML project
+I made this project using pure HTML and the use of inline styles
+
+## Here is the outcome demo
+
+### Home page
+
